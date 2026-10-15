@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/quotient/commit/95f2515219da99a77905852bc01deeb27e93466e",
       "git:hexsha": "95f2515219da99a77905852bc01deeb27e93466e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
